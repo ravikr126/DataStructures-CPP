@@ -9,4 +9,5 @@ These are a bunch of programs that I am working on while learning data structure
 - [Duplicates](https://leetcode.com/problems/contains-duplicate/description/)
 - [Move Zeros](https://leetcode.com/problems/move-zeroes/description/)
 - [Rotate](https://leetcode.com/problems/rotate-array/description/)
+- [Reverse Array](https://www.hackerrank.com/challenges/arrays-ds/problem)
 
