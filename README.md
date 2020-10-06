@@ -11,3 +11,6 @@ These are a bunch of programs that I am working on while learning data structure
 - [Rotate](https://leetcode.com/problems/rotate-array/description/)
 - [Reverse Array](https://www.hackerrank.com/challenges/arrays-ds/problem)
 
+## Random Problems
+- [Covid Run](https://www.codechef.com/OCT20B/problems/CVDRUN)
+
