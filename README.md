@@ -11,6 +11,9 @@ These are a bunch of programs that I am working on while learning data structure
 - [Rotate](https://leetcode.com/problems/rotate-array/description/)
 - [Reverse Array](https://www.hackerrank.com/challenges/arrays-ds/problem)
 - [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array/problem)
+- [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+- [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
+- [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 
 ## Random Problems
 - [Covid Run](https://www.codechef.com/OCT20B/problems/CVDRUN)
