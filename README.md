@@ -1,7 +1,7 @@
 # DataStructures-CPP
 These are a bunch of programs that I am working on while learning data structures...
 
-## Arrays Sollutions
+## Arrays
 - Array Class Creation
 - Merge Sort
 - String Reverse
@@ -14,6 +14,9 @@ These are a bunch of programs that I am working on while learning data structure
 - [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 - [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+
+## Hash Maps
+- Hash Map implementation
 
 ## Random Problems
 - [Covid Run](https://www.codechef.com/OCT20B/problems/CVDRUN)
