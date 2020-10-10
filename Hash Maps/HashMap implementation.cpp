@@ -141,7 +141,7 @@ int main()
             << endl << "4.Delete Data"
             << endl << "5.Show All Keys"
             << endl << "6.Exit"
-            << endl << "Enter values between 1-6";
+            << endl << "Enter values between 1-6:";
         cin >> n;
         switch(n)
         {
@@ -173,16 +173,19 @@ int main()
                      dataSet.deleteKey(key);
                      break;
 
-            case 5 : cout << "\nKeys in the map are:\n";
-                     keys = dataSet.keys();
+            case 5 : keys = dataSet.keys();
                      if(keys.size())
-                        for(int i = 0; i < keys.size(); i++)
+                     {
+                         cout << "\nKeys in the map are:\n";
+                         for(int i = 0; i < keys.size(); i++)
                             cout << keys[i] << ' ';
+                     }
                      else
-                        cout << "There is no data in the set";
+                        cout << "\nThere is no data in the set..";
                      break;
 
             case 6 : cout<< "\nExiting...\n";
+                     break;
             default: cout<< "\nInvalid Value ";
         }
     }
@@ -190,10 +193,3 @@ int main()
 
     return 0;
 }
-
-
-/*
- - delete fucntion
- - traversal function
- - key
- */
