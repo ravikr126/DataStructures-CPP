@@ -17,6 +17,7 @@ These are a bunch of programs that I am working on while learning data structure
 
 ## Hash Maps
 - Hash Map implementation
+- [Two Sums](https://leetcode.com/problems/two-sum/)
 
 ## Random Problems
 - [Covid Run](https://www.codechef.com/OCT20B/problems/CVDRUN)
