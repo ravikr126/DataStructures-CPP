@@ -14,6 +14,7 @@ These are a bunch of programs that I am working on while learning data structure
 - [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 - [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
+- [Variable Sized Array](https://www.hackerrank.com/challenges/variable-sized-arrays/problem)
 
 ## Hash Maps
 - Hash Map implementation
