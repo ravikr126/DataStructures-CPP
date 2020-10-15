@@ -16,7 +16,7 @@ These are a bunch of programs that I am working on while learning data structure
 - [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem)
 
 ## Hash Maps
-- Hash Map implementation
+- Hash Map (implementation and all basic to advance level problems with solutions)
 
 ## Random Problems
 - [Covid Run](https://www.codechef.com/OCT20B/problems/CVDRUN)
